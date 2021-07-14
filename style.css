@@ -162,7 +162,7 @@ margin: 0 auto;
 /* -----------------------------
 media query for mobile device
 ------------------------------ */
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 668px) {
 .top-container {
     justify-content: space-around;
     flex-wrap: wrap;
