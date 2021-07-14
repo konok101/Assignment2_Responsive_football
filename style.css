@@ -46,7 +46,8 @@ main{
 }
 
 .top-design-photo-rigth img:hover {
-transform: scale(1.1);
+    transition: 1.5s ease-in;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 /* main-top-part-- */
 /* blog style start */
@@ -134,7 +135,7 @@ width: 80%;
  
 /* footer */
 .footer {
-margin-top: 200px;
+margin-top: 50px;
 }
 .footer img {
 width: 262px;
